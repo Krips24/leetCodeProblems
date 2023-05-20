@@ -34,5 +34,3 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to fork,
 
 Happy coding and solving LeetCode problems!
 
-![LeetCode Logo](https://leetcode.com/static/webpack_bundles/images/logo-dark.svg)
-
