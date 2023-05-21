@@ -1,3 +1,5 @@
+```cpp
+
 class Solution {
 public:
     int fib(int n) {
@@ -11,3 +13,4 @@ public:
         return ans1+ans2;
     }
 };
+```
