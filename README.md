@@ -20,6 +20,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
+| 509 |Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 
 
 Feel free to explore the solutions, browse through the code, and gain insights into various problem-solving techniques!
