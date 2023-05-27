@@ -20,6 +20,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
 | 7 | Reverse Integer | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/7.%20Reverse%20Integer.md) |
+| 14 |Longest Common Prefix | Medium | [Solution Link]() |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
 | 509 |Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
