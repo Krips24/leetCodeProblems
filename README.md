@@ -27,6 +27,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
+| 2390 | Removing Stars From a String | Medium | [Solution Link]() |
 
 
 Feel free to explore the solutions, browse through the code, and gain insights into various problem-solving techniques!
