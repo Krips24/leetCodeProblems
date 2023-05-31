@@ -22,11 +22,12 @@ In this repository, you will find a collection of markdown files, each correspon
 | 7 | Reverse Integer | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/7.%20Reverse%20Integer.md) |
 | 14 |Longest Common Prefix | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/14.%20Longest%20Common%20Prefix.md) |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
-| 509 |Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
+| 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
+| 1822 | Sign of the Product of an Array | Easy | [Solution Link]() |
 | 2390 | Removing Stars From a String | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/2390.%20Removing%20Stars%20From%20a%20String.md) |
 
 
