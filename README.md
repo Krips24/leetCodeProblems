@@ -29,7 +29,6 @@ In this repository, you will find a collection of markdown files, each correspon
 | 1492 | The kth Factor of n | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1492.%20The%20kth%20Factor%20of%20n.md) |
 | 1732 | Find the Highest Altitude | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1732.%20Find%20the%20Highest%20Altitude.md) |
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
-| 1822 | Sign of the Product of an Array | Easy | [Solution Link (https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)|
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution Link]() |
 | 2390 | Removing Stars From a String | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/2390.%20Removing%20Stars%20From%20a%20String.md) |
 
