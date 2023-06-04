@@ -26,7 +26,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
-| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution Link]() |
+| 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) |
 | 1492 | The kth Factor of n | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1492.%20The%20kth%20Factor%20of%20n.md) |
 | 1732 | Find the Highest Altitude | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1732.%20Find%20the%20Highest%20Altitude.md) |
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
