@@ -25,7 +25,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 125 | Valid Palindrome | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/125.%20Valid%20Palindrome.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
-| 724 |  Find Pivot Index | Easy | [Solution Link]() |
+| 724 |  Find Pivot Index | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/724.%20Find%20Pivot%20Index.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
 | 977 | Squares of a Sorted Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/977.%20Squares%20of%20a%20Sorted%20Array.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
