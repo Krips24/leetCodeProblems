@@ -28,7 +28,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 724 |  Find Pivot Index | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/724.%20Find%20Pivot%20Index.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
 | 977 | Squares of a Sorted Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/977.%20Squares%20of%20a%20Sorted%20Array.md) |
-| 1071 | Greatest Common Divisor of Strings | Easy | [Solution Link]() |
+| 1071 | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) |
 | 1492 | The kth Factor of n | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1492.%20The%20kth%20Factor%20of%20n.md) |
