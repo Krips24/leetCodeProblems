@@ -23,7 +23,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 14 |Longest Common Prefix | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/14.%20Longest%20Common%20Prefix.md) |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
 | 125 | Valid Palindrome | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/125.%20Valid%20Palindrome.md) |
-| 136 | Single Number | Easy | [Solution Link]() |
+| 136 | Single Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/136.%20Single%20Number.md) |
 | 345 |  Reverse Vowels of a String | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
