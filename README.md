@@ -26,6 +26,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 136 | Single Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/136.%20Single%20Number.md) |
 | 238 | Product of Array Except Self | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/238.%20Product%20of%20Array%20Except%20Self.md) |
 | 283 | Move Zeroes | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/283.%20Move%20Zeroes.md) |
+| 334 | Increasing Triplet Subsequence | Medium | [Solution Link]() |
 | 345 |  Reverse Vowels of a String | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
