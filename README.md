@@ -28,7 +28,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 283 | Move Zeroes | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/283.%20Move%20Zeroes.md) |
 | 334 | Increasing Triplet Subsequence | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/334.%20Increasing%20Triplet%20Subsequence.md) |
 | 345 |  Reverse Vowels of a String | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/345.%20Reverse%20Vowels%20of%20a%20String.md) |
-| 392 | Is Subsequence | Easy | [Solution Link]() |
+| 392 | Is Subsequence | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/392.%20Is%20Subsequence.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
