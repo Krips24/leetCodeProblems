@@ -41,6 +41,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 1480 |  Running Sum of 1d Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1480.%20Running%20Sum%20of%201d%20Array.md)|
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) |
 | 1492 | The kth Factor of n | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1492.%20The%20kth%20Factor%20of%20n.md) |
+| 1679 | Max Number of K-Sum Pairs | Medium | [Solution Link]() |
 | 1732 | Find the Highest Altitude | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1732.%20Find%20the%20Highest%20Altitude.md) |
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)|
