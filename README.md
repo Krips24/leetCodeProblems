@@ -33,7 +33,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 345 |  Reverse Vowels of a String | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 371 | Sum of Two Integers | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/371.%20Sum%20of%20Two%20Integers.md) |
 | 392 | Is Subsequence | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/392.%20Is%20Subsequence.md) |
-| 450 | Delete Node in a BST | Medium | [Solution Link]() |
+| 450 | Delete Node in a BST | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/450.%20Delete%20Node%20in%20a%20BST.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
