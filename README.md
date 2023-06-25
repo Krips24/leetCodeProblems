@@ -40,7 +40,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
 | 724 |  Find Pivot Index | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/724.%20Find%20Pivot%20Index.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
-| 938 | Range Sum of BST | Easy | [Solution Link]() |
+| 938 | Range Sum of BST | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/938.%20Range%20Sum%20of%20BST.md) |
 | 977 | Squares of a Sorted Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/977.%20Squares%20of%20a%20Sorted%20Array.md) |
 | 1071 | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
