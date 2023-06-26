@@ -52,7 +52,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 1768 | Merge Strings Alternately | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1768.%20Merge%20Strings%20Alternately.md) |
 | 1822 | Sign of the Product of an Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)|
 | 1827 | Minimum Operations to Make the Array Increasing | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/1827.%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.md) |
-| 2095 | Delete the Middle Node of a Linked List | Medium | [Solution Link]() |
+| 2095 | Delete the Middle Node of a Linked List | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md) |
 | 2390 | Removing Stars From a String | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/2390.%20Removing%20Stars%20From%20a%20String.md) |
 
 
