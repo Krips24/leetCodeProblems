@@ -22,7 +22,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 7 | Reverse Integer | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/7.%20Reverse%20Integer.md) |
 | 14 |Longest Common Prefix | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/14.%20Longest%20Common%20Prefix.md) |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
-| 104 | Maximum Depth of Binary Tree | Easy | [Solution Link]() |
+| 104 | Maximum Depth of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) |
 | 125 | Valid Palindrome | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/125.%20Valid%20Palindrome.md) |
 | 136 | Single Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/136.%20Single%20Number.md) |
 | 141 | Linked List Cycle | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/141.%20Linked%20List%20Cycle.md) |
