@@ -22,6 +22,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 7 | Reverse Integer | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/7.%20Reverse%20Integer.md) |
 | 14 |Longest Common Prefix | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/14.%20Longest%20Common%20Prefix.md) |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
+| 100 | Same Tree | Easy | [Solution Link]() |
 | 102 | Binary Tree Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) |
