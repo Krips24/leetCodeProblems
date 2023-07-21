@@ -27,6 +27,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) |
 | 107 | Binary Tree Level Order Traversal II | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) |
+| 114 | Flatten Binary Tree to Linked List | Medium | [Solution Link]() |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 125 | Valid Palindrome | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/125.%20Valid%20Palindrome.md) |
 | 136 | Single Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/136.%20Single%20Number.md) |
