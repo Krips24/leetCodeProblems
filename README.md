@@ -44,7 +44,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 392 | Is Subsequence | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/392.%20Is%20Subsequence.md) |
 | 450 | Delete Node in a BST | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/450.%20Delete%20Node%20in%20a%20BST.md) |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
-| 543 | Diameter of Binary Tree | Easy | [Solution Link]() |
+| 543 | Diameter of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/543.%20Diameter%20of%20Binary%20Tree.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
 | 700 | Search in a Binary Search Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
