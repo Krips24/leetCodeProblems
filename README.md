@@ -26,7 +26,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 102 | Binary Tree Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) |
 | 104 | Maximum Depth of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) |
-| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [Solution Link]() |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) |
 | 107 | Binary Tree Level Order Traversal II | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) |
 | 114 | Flatten Binary Tree to Linked List | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
