@@ -47,7 +47,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 543 | Diameter of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/543.%20Diameter%20of%20Binary%20Tree.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
-| 637 | Average of Levels in Binary Tree | Easy | [Solution Link]() |
+| 637 | Average of Levels in Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md) |
 | 700 | Search in a Binary Search Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
 | 724 |  Find Pivot Index | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/724.%20Find%20Pivot%20Index.md) |
