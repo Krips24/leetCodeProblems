@@ -49,7 +49,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
 | 637 | Average of Levels in Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md) |
 | 700 | Search in a Binary Search Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) |
-| 701 | Insert into a Binary Search Tree | Medium | [Solution Link]() |
+| 701 | Insert into a Binary Search Tree | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) |
 | 704 |  Binary Search | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/704.%20Binary%20Search.md) |
 | 724 |  Find Pivot Index | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/724.%20Find%20Pivot%20Index.md) |
 | 852 | Peak Index in a Mountain Array | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) |
