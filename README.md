@@ -22,7 +22,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | :--- | :------------------------------ | :--------- | :------- |
 | 7 | Reverse Integer | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/7.%20Reverse%20Integer.md) |
 | 14 |Longest Common Prefix | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/14.%20Longest%20Common%20Prefix.md) |
-| 26 | Remove Duplicates from Sorted Array | Easy | [Solution Link]() |
+| 26 | Remove Duplicates from Sorted Array | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/26.%20Remove%20Duplicates%20from%20Sorted%20Array) |
 | 69 | Sqrt(x) | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/69.%20Sqrt(x).md) |
 | 100 | Same Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/100.%20Same%20Tree.md) |
 | 102 | Binary Tree Level Order Traversal | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) |
