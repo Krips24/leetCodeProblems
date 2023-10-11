@@ -1,0 +1,61 @@
+# Remove Duplicates from Sorted Array
+
+## Problem Statement
+
+Given a sorted array of integers `nums`, remove the duplicates in-place such that each unique element appears only once and returns the new length.
+
+Do not allocate extra space for another array; you must do this by modifying the input array in-place with O(1) extra memory.
+
+## Approach
+
+The given code provides a solution to remove duplicates from a sorted array in-place. Here's how it works:
+
+1. First, it checks if the `nums` array is empty. If it's empty, there are no duplicates to remove, so it returns 0.
+
+2. It initializes a variable `count` to 1. This variable will keep track of the length of the modified array.
+
+3. It then iterates through the `nums` array starting from the second element (index 1) using a `for` loop.
+
+4. In each iteration, it compares the current element `nums[i]` with the previous element `nums[i - 1]`. If they are not equal, it means the current element is different from the previous one and should be included in the modified array.
+
+5. If the elements are not equal, the code updates the `count`-th position of the `nums` array with the current element. This effectively removes duplicates by overwriting them with the unique elements.
+
+6. The `count` variable is incremented by 1 to keep track of the length of the modified array.
+
+7. After the loop finishes, the `count` variable holds the length of the modified array, and the duplicates have been removed in-place.
+
+8. The code returns the value of `count` as the length of the modified array.
+
+## Complexity Analysis
+
+Let `n` be the number of elements in the `nums` array.
+
+- Time Complexity: The code runs in O(n) time because it iterates through the array once.
+- Space Complexity: The code operates in-place with O(1) extra memory, which means it does not use additional data structures based on the input size.
+
+## Code Implementation
+
+Here is the code implementation:
+
+```cpp
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        if (nums.empty()) {
+            return 0;
+        }
+
+        int count = 1;
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] != nums[i - 1]) {
+                nums[count] = nums[i];
+                count++;
+            }
+        }
+
+        return count;
+    }
+};
+
+
