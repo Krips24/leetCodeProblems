@@ -36,7 +36,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 125 | Valid Palindrome | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/125.%20Valid%20Palindrome.md) |
 | 136 | Single Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/136.%20Single%20Number.md) |
 | 141 | Linked List Cycle | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/141.%20Linked%20List%20Cycle.md) |
-| 151 | Reverse Words in a String | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/tree/main/Solutions%20) |
+| 151 | Reverse Words in a String | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/151.%20Reverse%20Words%20in%20a%20String.md) |
 | 199 | Binary Tree Right Side View| Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/199.%20Binary%20Tree%20Right%20Side%20View.md) |
 | 206 | Reverse Linked List | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/206.%20Reverse%20Linked%20List.md) |
 | 222 | Count Complete Tree Nodes | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/222.%20Count%20Complete%20Tree%20Nodes.md) |
