@@ -49,6 +49,7 @@ In this repository, you will find a collection of markdown files, each correspon
 | 371 | Sum of Two Integers | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/371.%20Sum%20of%20Two%20Integers.md) |
 | 392 | Is Subsequence | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/392.%20Is%20Subsequence.md) |
 | 450 | Delete Node in a BST | Medium | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/450.%20Delete%20Node%20in%20a%20BST.md) |
+| 485 | Max Consecutive Ones | Easy | [Solution Link]() |
 | 509 | Fibonacci Number | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/509.%20Fibonacci%20Number.md) |
 | 543 | Diameter of Binary Tree | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/543.%20Diameter%20of%20Binary%20Tree.md) |
 | 605 | Can Place Flowers | Easy | [Solution Link](https://github.com/Krips24/leetCodeProblems/blob/main/Solutions%20/605.%20Can%20Place%20Flowers.md) |
